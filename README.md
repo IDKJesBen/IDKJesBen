@@ -18,7 +18,7 @@ Nacido en **Venezuela**, viviendo actualmente en **Ciudad de México**. Con **27
 
 | Comando Alias                 | Descripción                                 |
 | ------                        | ------                                      |
-| la=```'ls -a'```              | Abre ruta indicada.                         |
+| la=```'ls -a'```              | Muestra todos los archivos y direcciones.   |
 | findd=```'ls ~/ ║ grep $1'``` | Busca cualquier ruta con letras indicadas.  |
 | gitpl=```'git pull'```        | Actualiza desde Git.                        |
 | gitps=```'git push'```        | Envía a Git.                                |
