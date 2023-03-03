@@ -16,10 +16,10 @@ Nacido en **Venezuela**, viviendo actualmente en **Ciudad de México**. Con **27
 
 ### Comandos Alias:
 
-| Comando Alias               | Descripción                                 |
-| ------                      | ------                                      |
-| la=```ls -a```              | Abre ruta indicada.                         |
-| findd=```ls ~/ ║ grep $1``` | Busca cualquier ruta con letras indicadas.  |
-| gitpl=```git pull```        | Actualiza desde Git.                        |
-| gitps=```git push```        | Envía a Git.                                |
-| cl=```clear```              | Limpia la terminal.                         |
+| Comando Alias                 | Descripción                                 |
+| ------                        | ------                                      |
+| la=```'ls -a'```              | Abre ruta indicada.                         |
+| findd=```'ls ~/ ║ grep $1'``` | Busca cualquier ruta con letras indicadas.  |
+| gitpl=```'git pull'```        | Actualiza desde Git.                        |
+| gitps=```'git push'```        | Envía a Git.                                |
+| cl=```'clear'```              | Limpia la terminal.                         |
