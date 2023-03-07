@@ -42,8 +42,8 @@
 🏗️
 
 ## 🎓 Educación
-  + **Ingeniería en Telecomunicaciones.** ~No titulado~  _2012 - ~2015~_
-  + Ingeniería en Informática. ~No titulado~ _2015 - ~2018~_
+  + **Ingeniería en Telecomunicaciones**. ~No titulado~  _2012 - ~2015~_
+  + **Ingeniería en Informática**. ~No titulado~ _2015 - ~2018~_
 
 ## 🦸‍♂️ Habilidades
   + Amabilidad
