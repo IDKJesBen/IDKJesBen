@@ -4,10 +4,10 @@
   <h2>🧔🏻 Tengo <strong>27 años</strong>. Nacido en <strong>Venezuela</strong> 🇻🇪, viviendo actualmente en la <strong>Ciudad de México</strong> 🇲🇽.</h2>
   <h2>💼 Experiencia</h2>
     <ul>
-      <li><em>Virtual Advisor Venezuela</em> (VAV): <strong>IT Support Enginner</strong>. <em>2016 - <strike>2018</strike></em></li>
-      <li><em>Andromeda Creative Estudios</em>: <strong>Wordpress Web Developer</strong>. <em>2018 - <strike>2020</strike></em></li>
-      <li><em>ONE IT</em>: <strong>IT Support Enginner</strong>. <em>2020 - <strike>2022</strike></em></li>
       <li><em>4 NDM Fusion Contact Center</em>: <strong>IT Support Enginner</strong>. <em>2022 - Actualidad</em></li>
+      <li><em>ONE IT</em>: <strong>IT Support Enginner</strong>. <em>2020 - <strike>2022</strike></em></li>
+      <li><em>Andromeda Creative Estudios</em>: <strong>Wordpress Web Developer</strong>. <em>2018 - <strike>2020</strike></em></li>
+      <li><em>Virtual Advisor Venezuela</em> (VAV): <strong>IT Support Enginner</strong>. <em>2016 - <strike>2018</strike></em></li>
     </ul>  
   <h2>💻 SO que domino</h2>
     <div>
