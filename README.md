@@ -73,7 +73,8 @@
 
 ## ✉️ Contáctame
   [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:jesusalbertobr95@gmail.com) 
-
+<br/>
+<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![](https://visitcount.itsvg.in/api?id=idkjesben&icon=0&color=0)
