@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
     </div>
-  <h2>📚 Cursos</h2>
+  <h2>📚 Cursos realizados</h2>
     <ul>
       <li><strong>Bootcamp: Desarrollo web Full-Stack</strong>. <em>Undefined Academy 2023   </em><em><strong>EN CURSO</strong></em></li>
       <li><strong>Platzi English Academy</strong>. <em>Platzi 2023   </em><em><strong>EN CURSO</strong></em></li>
