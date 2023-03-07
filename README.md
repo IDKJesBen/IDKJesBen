@@ -38,12 +38,12 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## 📚 Cursos
+🏗️
+
 ## 🎓 Educación
   + **Ingeniería en Telecomunicaciones.** ~No titulado~  _2012 - ~2015~_
   + Ingeniería en Informática. ~No titulado~ _2015 - ~2018~_
-
-## 📚 Cursos
-🏗️
 
 ## 🦸‍♂️ Habilidades
   + Amabilidad
