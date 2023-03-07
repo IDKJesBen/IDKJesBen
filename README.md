@@ -14,6 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="Debian"/>
+  <img src="https://documents.zhaokaifeng.com/uploads/2021/10/12/708c4e2d8ca1d82beadc2bd4d1d89033c93824bbc82d15cad7c1df09011ffaa5.svg" height="40" width="52" alt="Windows"/>
 </div>
 
 ## 🛠️ Herramientas que domino
