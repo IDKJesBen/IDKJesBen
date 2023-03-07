@@ -54,6 +54,8 @@
   + Compañerismo
   + Trabajo en equipo
   + Optimismo
+  + Puntualidad
+  + Responsabilidad
   + Proactivismo
   + Aprendizaje rápido
   
