@@ -56,24 +56,6 @@
     <div>
       <img src="https://lh3.googleusercontent.com/IUHtuEgwFC4wmnCdr1wPCeNNZFe-_i0dz9FpnDaV-oAE9-wRGP2TdEYHcLSfG8_coNPSTJL6pYeD_6y-8knWZNCIXCrm-53Y_4aaz1xX" height="60" width="500" alt="grafica-idiomas">
     </div>
-  <h2>🎓 Educación</h2>
-    <ul>
-      <li><strong>Ingeniería en Telecomunicaciones</strong>. <strike>No titulado</strike>. <em>2012 - <strike>2015</strike></em></li>
-      <li><strong>Ingeniería en Infomática</strong>. <strike>No titulado</strike>. <em>2015 - <strike>2018</strike></em></li>
-    </ul>
-  <h2>🦸‍♂️ Habilidades</h2>
-    <ul>
-      <li>Amabilidad</li>
-      <li>Compañerismo</li>
-      <li>Trabajo en equipo</li>
-      <li>Optimismo</li>
-      <li>Puntualidad</li>
-      <li>Responsabilidad</li>
-      <li>Proactivo</li>
-      <li>Aprendizaje rápido</li>
-    </ul>
-  <h2>📝 Notas</h2>
-    🏗️
   <h2>🔗 Enlaces</h2>
     <div>
       <a href="https://discord.gg/IDKJesBen#9115"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
