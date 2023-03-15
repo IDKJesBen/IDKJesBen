@@ -55,7 +55,7 @@
 
 ## 💬 Idiomas
   <div>
-    <img src="https://lh3.googleusercontent.com/QUEykGpzV0wonxj89Oowgg-aHctzmohEthY266wQSMZk1EqCHpqQcI1eQpx1DbmwXa-AwkxbsbcmisaO3RJBG5aWRbLGlbLpv-r7D6NufA" height="60" width="500" alt="grafica-idiomas">
+    <img src="./grafica-idiomas.png" height="60" width="500" alt="grafica-idiomas">
   </div>
 
 ## 🔗 Enlaces
